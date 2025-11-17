@@ -94,7 +94,7 @@ main() → Control del programa y del menú
 
 
 📁 5. Estructura del proyecto
-
+```
 Proyecto_agenda_contactos_inicial.py/ 
 │
 ├── agenda_contactos_inicial.py     ← Archivo principal del programa
@@ -103,7 +103,7 @@ Proyecto_agenda_contactos_inicial.py/
 ├── Proyecto Planteamiento.pdf      ← Enunciado del proyecto (Original)
 ├── Guion Tecnico.pdf               ← Planif. demo técnica
 └── Guion Funcional.pdf             ← Planif. demo funcionalpráctica
-
+```
 
 ▶️ 6. Cómo ejecutar el programa
 
