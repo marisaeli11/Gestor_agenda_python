@@ -38,7 +38,7 @@ Este proyecto implementa todos los requisitos solicitados y añade mejoras de va
 
 
 ✔️ 2. Ejemplo del menú principal
-
+```
 ===== Gestor de Contactos =====
 1. Agregar contacto
 2. Listar contactos
@@ -47,7 +47,7 @@ Este proyecto implementa todos los requisitos solicitados y añade mejoras de va
 5. Salir
 ===============================
 Elige una opción:
-
+```
 
 💾 3. Persistencia de datos
 
